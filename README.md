@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kavishka Rathnayake</h1>
-<h3 align="center">A passionate Quality Assurance Tester from Sri Lanka</h3>
+<h3 align="center">A passionate Software Quality Assurance Tester from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kavishkarathnayake&label=Profile%20views&color=0e75b6&style=flat" alt="kavishkarathnayake" /> </p>
 
 ---
 - 🌱 I’m currently learning **IT | Undergraduate at Rajarata University of Sri Lanka (BICT, Hons)**
 
-- 💬 Ask me about **JAVA, HTML, CSS**
+- 💬 Ask me about **JAVA, HTML, CSS, SELENIUM**
 
 - 📫 How to reach me **medhangakavishka06@gmail.com / medhangakavishka6@gmail.com**
 
@@ -25,7 +25,7 @@
 <br><br>
 
 ### 🐱My Github stats:
-![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=KavishkaRathnayake&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KavishkaRathnayake&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 
