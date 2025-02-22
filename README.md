@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **JAVA, HTML, CSS, SELENIUM**
 
-- 📫 How to reach me **medhangakavishka06@gmail.com 
+- 📫 How to reach me  medhangakavishka06@gmail.com 
 
   
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
