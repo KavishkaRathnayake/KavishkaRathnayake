@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kavishkarathnayake&label=Profile%20views&color=0e75b6&style=flat" alt="kavishkarathnayake" /> </p>
 
 ---
-- 🌱 I’m currently learning **IT | Undergraduate at Rajarata University of Sri Lanka (BICT, Hons)**
+- 🌱 I’m currently learning **IT | BICT (Honors) in Information Communication Technology**
 
 - 💬 Ask me about **JAVA, HTML, CSS, SELENIUM**
 
